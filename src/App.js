@@ -20,6 +20,7 @@ function App() {
     setload(true)
     axios.get(`https://api.lyrics.ovh/v1/${artist}/${song}`).then((res) => {
       setlyricsa(res.data.lyrics)
+      console.log(res.data)
       setload(false)
     }).catch((error) => {
       alert("error in fetching")
