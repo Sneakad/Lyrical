@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lyrical/static/css/main.1265e321.css",
+    "main.js": "/Lyrical/static/js/main.c31fd0e7.js",
+    "index.html": "/Lyrical/index.html",
+    "main.1265e321.css.map": "/Lyrical/static/css/main.1265e321.css.map",
+    "main.c31fd0e7.js.map": "/Lyrical/static/js/main.c31fd0e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1265e321.css",
+    "static/js/main.c31fd0e7.js"
+  ]
+}
