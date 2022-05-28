@@ -24,6 +24,9 @@ function App() {
 
   return (
     <div className="App">
+      <h1>
+        Lyrical_
+      </h1>
       <input className='artistname' type="text" placeholder='artist name'
         onChange={(e) => { setartist(e.target.value) }} />
       <input className='songname' type="text" placeholder='song name'

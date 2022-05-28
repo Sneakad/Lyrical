@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+body{
+  background-color: rgb(215, 243, 250);
+}
+
 
 input{
   width: 300px;
@@ -72,4 +76,13 @@ button:hover:not(:disabled) {
 
 button:disabled {
   cursor: auto;
+}
+
+pre{
+  font-size: 20px;
+  padding: 5px;
+}
+h1{
+  color: #0080ff;
+  font-size: 50px;
 }
