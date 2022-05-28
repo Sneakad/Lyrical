@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+
 .App {
   text-align: center;
 }
@@ -79,9 +82,11 @@ button:disabled {
 }
 
 pre{
+  font-family: 'PT Sans', sans-serif;
   font-size: 20px;
   padding: 5px;
 }
+
 h1{
   color: #0080ff;
   font-size: 50px;
